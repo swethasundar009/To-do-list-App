@@ -1,4 +1,4 @@
-### To-Do List Application
+# To-Do List Application
 
 A simple and responsive to-do list application built with HTML, CSS, and vanilla JavaScript.
 
